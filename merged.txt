@@ -70,7 +70,7 @@
 ! Homepage: https://github.com/MasterKia/PersianBlocker
 ! In the corner:
 ! In-post ads:
-! Last modified: Thu, 28 May 2026 14:05:28 +0330
+! Last modified: Sun, 31 May 2026 15:10:50 +0330
 ! License: AGPLv3 (https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE)
 ! License: https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE
 ! Mobile
@@ -2733,7 +2733,7 @@ waykingroup.com
 web.bale.ai##div[data-sentry-component="createSponsoredMessageItem"]
 web.bale.ai##div[data-testid="dialog-ad"]
 web.eitaa.com##.ads-active
-web.eitaa.com##div.chatlist-parts > div.chatlist-top > ul.ads-dialog-box
+web.eitaa.com##.ads-dialog-box
 web.rubika.ir##rb-chat-ads-container
 web.splus.ir##.ListItem:has(span.AdvertisementIcon)
 websocket.55online.news
