@@ -70,7 +70,7 @@
 ! Homepage: https://github.com/MasterKia/PersianBlocker
 ! In the corner:
 ! In-post ads:
-! Last modified: Sun, 31 May 2026 15:10:50 +0330
+! Last modified: Thu, 4 Jun 2026 17:31:09 +0330
 ! License: AGPLv3 (https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE)
 ! License: https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE
 ! Mobile
@@ -482,6 +482,7 @@
 ! meliyat.ir, aftabnews.ir, eghtesadgardan.ir, entekhab.ir, nabzefanavari.ir, boursenews.ir, snn.ir,
 ! melodify.app - Ads when switching songs
 ! mobile.ir:
+! mobileweb.bankmellat.ir:
 ! movieyaab.ir:
 ! musicsweb.ir, upmusics.com, musicdel.ir
 ! my.files.ir:
@@ -1976,6 +1977,7 @@ mitrarank.ir
 mobile.ir###bottombanner
 mobile.ir##.apnl
 mobile.ir##.b
+mobileweb.bankmellat.ir##.noSelect:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; user-select: text !important;)
 mobo.news##.ads-full-banner-img
 mobomod.com##div#Abox-mobo
 moddinggame.ir##div#ZAD
