@@ -70,7 +70,7 @@
 ! Homepage: https://github.com/MasterKia/PersianBlocker
 ! In the corner:
 ! In-post ads:
-! Last modified: Thu, 4 Jun 2026 17:31:09 +0330
+! Last modified: Wed, 10 Jun 2026 23:17:12 +0330
 ! License: AGPLv3 (https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE)
 ! License: https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE
 ! Mobile
@@ -133,6 +133,7 @@
 ! applicationha.com, androidgozar.com, downloadkral.com, gold-team.org, iranecar.com, icoff.ee, koolakmag.ir,
 ! avaz-kurd.ir, power-music.ir
 ! avaz-kurd.ir, power-music.ir:
+! bama.ir:
 ! beytoote.com:
 ! blogfa.com (e.g. daylight.blogfa.com):
 ! blogsazan.com:
@@ -3052,6 +3053,7 @@ zoomit.ir,zoomg.ir##div[class^="AdvertisingParser__Root"]
 ||backtory.com/Bucket/deepchart/DeepChartAnalytics.js
 ||bahatoken.site^$all
 ||bama.ir/*/api/log^$xhr,1p
+||bama.ir/uploads/BamaImages/CampaignBanner^
 ||bankemardom.ir/Files/Ads
 ||banki.ir/images/banners/
 ||barato.ir/wp-content/*/ad/
