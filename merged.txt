@@ -70,7 +70,7 @@
 ! Homepage: https://github.com/MasterKia/PersianBlocker
 ! In the corner:
 ! In-post ads:
-! Last modified: Wed, 10 Jun 2026 23:17:12 +0330
+! Last modified: Mon, 15 Jun 2026 16:58:25 +0330
 ! License: AGPLv3 (https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE)
 ! License: https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE
 ! Mobile
@@ -2446,7 +2446,7 @@ shayanews.com##.top_adv
 shayanews.com##.zxc
 shereno.com##.b_box
 shereno.com##.widget:has(.widget_title:has-text(پیوند))
-sheypoor.com##button[data-test-id^="link-to-https://www.sheypoor.com/banner/"]
+sheypoor.com##div:has(> a[href^="https://banners.sheypoor.com/banner/"])
 shirazsong.in##.no-mobile.out-container:nth-of-type(3)
 shmi.ir##.ads
 shmi.ir##.left_banner
@@ -3604,6 +3604,7 @@ zoomit.ir,zoomg.ir##div[class^="AdvertisingParser__Root"]
 ||shahrsakhtafzar.com/fa/images/banners/
 ||shahvani.com/static/images/*.gif^
 ||shamining.com^$all
+||sheypoor.com/banner/external/image^
 ||shirazsong.in/wp-content/plugins/google-analytics
 ||shmi.ir/wp-content/uploads/*gif
 ||shomanews.com/box.php^$3p
