@@ -70,7 +70,7 @@
 ! Homepage: https://github.com/MasterKia/PersianBlocker
 ! In the corner:
 ! In-post ads:
-! Last modified: Mon, 15 Jun 2026 16:58:25 +0330
+! Last modified: Tue, 16 Jun 2026 21:54:40 +0330
 ! License: AGPLv3 (https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE)
 ! License: https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE
 ! Mobile
@@ -2726,7 +2726,7 @@ vigiato.net##.ad_728_90
 vipofilm.com##.ads
 vipofilm.com##.tabligh
 vipofilm.com##aside > .title:has-text(تبلیغات):upward(aside)
-virgool.io###app-portal > div:has(a[rel="sponsored"] > img[alt="Ad"])
+virgool.io###app-portal:has(> div a[rel="sponsored"] > img[alt="Ad"])
 virgool.io##+js(href-sanitizer, a[href^="https://l.vrgl.ir/r?"][href*="&l=http"], ?l)
 virgool.io##body > div:has(> div > a[rel="sponsored"])
 virgool.io##body[style="overflow: hidden;"]:style(overflow: auto !important;)
