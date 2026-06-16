@@ -3276,7 +3276,6 @@ zoomit.ir,zoomg.ir##div[class^="AdvertisingParser__Root"]
 ||hamgardy.com/Uploads/Advertisment/
 ||hamrah-mechanic.com/mag/wp-content/uploads/*.gif^
 ||hamravesh.com^$3p
-||hamserver.ir^$3p
 ||hamshahrionline.ir/rest/visit^
 ||hantana.org^
 ||hiads.hidoctor.ir/
